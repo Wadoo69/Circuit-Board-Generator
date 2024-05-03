@@ -17,8 +17,8 @@ This project is a simple circuit board generator implemented using JavaScript wi
 
 ## Installation
 - Clone the repository:
+- Copy code:
 ```bash
-Copy code
 git clone https://github.com/your-username/circuit-board-generator.git
 ```
 - Open index.html in your web browser.
