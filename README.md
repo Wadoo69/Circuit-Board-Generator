@@ -6,7 +6,7 @@ This project is a simple circuit board generator implemented using JavaScript wi
 - Adjust parameters such as cell size, wire length, cut-off length, and straightness using GUI controls.
 - Real-time visualization of circuit board layouts.
 
-##Screenshots
+## Screenshots
 
 ![image](https://github.com/Wadoo69/Circuit-Board-Generator/assets/135997896/4c0162a6-8709-4c18-b8a8-8b6c7687a956)
 
